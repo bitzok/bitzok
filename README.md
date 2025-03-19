@@ -23,10 +23,10 @@
 </pre>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santacruzedward/" style="margin: 5px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 60px; height: 60px; vertical-align: middle;">
-  </a>
-  <a href="mailto:santacruzedward@hotmail.com" style="margin: 5px;">
+    <a href="https://www.linkedin.com/in/santacruzedward/" target="_blank" rel="noopener noreferrer" style="margin: 5px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 60px; height: 60px; vertical-align: middle;">
+    </a>
+  <a href="mailto:santacruzedward@hotmail.com" target="_blank" rel="noopener noreferrer" style="margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" style="width: 60px; height: 60px; vertical-align: middle;">
   </a>
 </p>
