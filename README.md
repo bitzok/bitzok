@@ -14,9 +14,13 @@
                                 %k  <88F
                                 "+:*%`
 </pre>
----
+---     
 
-### 📬 Conéctate conmigo:
+<pre style="line-height: 1;">
+            ┓  
+┏┓┏┓╋┓┏┏┏┓┏┓┃┏     
+┛┗┗ ┗┗┻┛┗┛┛ ┛┗   
+</pre>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santacruzedward/" style="margin: 5px;">
@@ -29,15 +33,12 @@
 
 ---
 
-### ☠️ 𝕊𝕠𝕓𝕣𝕖 𝕞í ☠️  
-🔹 **Desarrollador Full Stack | Arquitectura de Software | Backend sólido**  
-🔹 **Especializado en** `React`, `Node.js`, `C#`, `SQL/NoSQL`  
-🔹 **Explorando** Microservicios & Seguridad  
-🔹 **Obsesionado con la perfección del código y la estética oscura**  
-
----
-
-### ⚙️ 𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌í𝖆𝖘  
+<pre style="line-height: 1;">
+    ┓     ┓    •   
+╋┏┓┏┣┓┏┓┏┓┃┏┓┏┓┓┏┓┏
+┗┗ ┗┛┗┛┗┗┛┗┗┛┗┫┗┗ ┛
+              ┛    
+</pre>
 
 <table align="center">
   <thead>
@@ -61,7 +62,11 @@
                     transition: filter 0.3s ease-in-out, transform 0.2s ease-in-out;"
             onmouseover="this.style.filter='grayscale(0%) contrast(100%) brightness(100%)'; this.style.transform='scale(2)';"
             onmouseout="this.style.filter='grayscale(100%) contrast(350%)'; this.style.transform='scale(1)';">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="width: 30px; height: 30px; margin: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="width: 30px; height: 30px; margin: 5px;"
+            style="width: 30px; height: 30px; margin: 5px; filter: grayscale(100%) contrast(350%);
+                    transition: filter 0.3s ease-in-out, transform 0.2s ease-in-out;"
+            onmouseover="this.style.filter='grayscale(0%) contrast(100%) brightness(100%)'; this.style.transform='scale(2)';"
+            onmouseout="this.style.filter='grayscale(100%) contrast(350%)'; this.style.transform='scale(1)';">
       </td>
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 30px; height: 30px; margin: 5px;">
@@ -116,8 +121,10 @@
 </table>
 
 ---
-
-📈 **Estadísticas de GitHub**  
+<pre style="line-height: 1;">
+┏╋┏┓╋┏             
+┛┗┗┻┗┛    
+</pre>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bitzok&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Bitzok's GitHub Stats" height="150">
