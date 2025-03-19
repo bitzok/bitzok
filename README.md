@@ -19,13 +19,11 @@
 
 ---     
 
-<div align="center">
-    <pre style="line-height: 1;">
-            ┌┐┌┌─┐┌┬┐┬ ┬┌─┐┬─┐┬┌─             
-            │││├┤  │ ││││ │├┬┘├┴┐             
-    ┘└┘└─┘ ┴ └┴┘└─┘┴└─┴ ┴    
-    </pre>
-</div>
+<pre style="line-height: 1;">
+┌┐┌┌─┐┌┬┐┬ ┬┌─┐┬─┐┬┌─             
+│││├┤  │ ││││ │├┬┘├┴┐             
+┘└┘└─┘ ┴ └┴┘└─┘┴└─┴ ┴    
+</pre>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/santacruzedward/" target="_blank" rel="noopener noreferrer" style="margin: 5px;">
