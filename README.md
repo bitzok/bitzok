@@ -17,27 +17,28 @@
 ---     
 
 <pre style="line-height: 1;">
-            ┓  
-┏┓┏┓╋┓┏┏┏┓┏┓┃┏     
-┛┗┗ ┗┗┻┛┗┛┛ ┛┗   
+┌┐┌┌─┐┌┬┐┬ ┬┌─┐┬─┐┬┌─             
+│││├┤  │ ││││ │├┬┘├┴┐             
+┘└┘└─┘ ┴ └┴┘└─┘┴└─┴ ┴    
 </pre>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santacruzedward/" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width: 120px; height: 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 60px; height: 60px; vertical-align: middle;">
   </a>
   <a href="mailto:santacruzedward@hotmail.com" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="width: 120px; height: 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Logo" style="width: 60px; height: 60px; vertical-align: middle;">
   </a>
 </p>
 
 ---
 
 <pre style="line-height: 1;">
-    ┓     ┓    •   
-╋┏┓┏┣┓┏┓┏┓┃┏┓┏┓┓┏┓┏
-┗┗ ┗┛┗┛┗┗┛┗┗┛┗┫┗┗ ┛
-              ┛    
+
+┌┬┐┌─┐┌─┐┬ ┬┌┐┌┌─┐┬  ┌─┐┌─┐┬┌─┐┌─┐
+ │ ├┤ │  ├─┤││││ ││  │ ││ ┬│├┤ └─┐
+ ┴ └─┘└─┘┴ ┴┘└┘└─┘┴─┘└─┘└─┘┴└─┘└─┘
+
 </pre>
 
 <table align="center">
@@ -122,8 +123,9 @@
 
 ---
 <pre style="line-height: 1;">
-┏╋┏┓╋┏             
-┛┗┗┻┗┛    
+┌─┐┌┬┐┌─┐┌┬┐┌─┐                   
+└─┐ │ ├─┤ │ └─┐                   
+└─┘ ┴ ┴ ┴ ┴ └─┘  
 </pre>
 
 <div align="center">
