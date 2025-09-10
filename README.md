@@ -1,31 +1,8 @@
-<div align="center">
-    <pre style="white-space: pre; text-align: center;">
-        ..       .         s                                 ..
-    . uW8"        @88>      :8                           < .z@8"
-    `t888         %8P      .88         ..           u.    !@88E
-    8888   .      .      :888ooo    .@88i    ...ue888b   '888E   u
-    9888.z88N   .@88u  -*8888888   ""%888>   888R Y888r   888E u@8NL
-    9888  888E ''888E`   8888        '88%    888R I888>   888E`"88*"
-    9888  888E   888E    8888      ..dILr~`  888R I888>   888E .dN.
-    9888  888E   888E    8888     '".-%88b   888R I888>   888E~8888
-    9888  888E   888E   .8888Lu=   @  '888k u8888cJ888    888E '888&
-    .8888  888"   888&   ^%888*    8F   8888  "*888*P"     888E  9888.
-    `%888*%"     R888"    'Y"    '8    8888    'Y"      '"888*" 4888"
-        "`         ""             '8    888F                ""    ""
-            %k  <88F
-            "+:*%`
-    </pre>
-</div>
+<h1>bitzok</h1>
 
----     
+<h3>Network</h3>
 
-<pre style="line-height: 1;">
-┌┐┌┌─┐┌┬┐┬ ┬┌─┐┬─┐┬┌─             
-│││├┤  │ ││││ │├┬┘├┴┐             
-┘└┘└─┘ ┴ └┴┘└─┘┴└─┴ ┴    
-</pre>
-
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/santacruzedward/" target="_blank" rel="noopener noreferrer" style="margin: 5px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 60px; height: 60px; vertical-align: middle;">
     </a>
@@ -36,13 +13,9 @@
 
 ---
 
-<pre style="line-height: 1;">
-┌┬┐┌─┐┌─┐┬ ┬┌┐┌┌─┐┬  ┌─┐┌─┐┬┌─┐┌─┐
- │ ├┤ │  ├─┤││││ ││  │ ││ ┬│├┤ └─┐
- ┴ └─┘└─┘┴ ┴┘└┘└─┘┴─┘└─┘└─┘┴└─┘└─┘
-</pre>
+<h3>Technologies</h3>
 
-<table align="center">
+<table>
   <thead>
     <tr>
       <th style="text-align: center;">Frontend</th>
@@ -123,15 +96,8 @@
 </table>
 
 ---
-<pre style="line-height: 1;">
-┌─┐┌┬┐┌─┐┌┬┐┌─┐                   
-└─┐ │ ├─┤ │ └─┐                   
-└─┘ ┴ ┴ ┴ ┴ └─┘  
-</pre>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bitzok&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Bitzok's GitHub Stats" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitzok&layout=compact&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Top Langs" height="150">
-</div>
+<h3>Stats</h3>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=bitzok&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Bitzok's GitHub Stats" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitzok&layout=compact&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Top Langs" height="150">
