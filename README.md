@@ -27,11 +27,7 @@
   <tbody>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-            style="width: 30px; height: 30px; margin: 5px; filter: grayscale(100%) contrast(350%);
-                    transition: filter 0.3s ease-in-out, transform 0.2s ease-in-out;"
-            onmouseover="this.style.filter='grayscale(0%) contrast(100%) brightness(100%)'; this.style.transform='scale(2)';"
-            onmouseout="this.style.filter='grayscale(100%) contrast(350%)'; this.style.transform='scale(1)';">
+        <img src="https://iconic-api.onrender.com/dark/html" width="32px" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
             style="width: 30px; height: 30px; margin: 5px; filter: grayscale(100%) contrast(350%);
                     transition: filter 0.3s ease-in-out, transform 0.2s ease-in-out;"
