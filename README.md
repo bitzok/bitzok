@@ -1,16 +1,18 @@
 <h3 align="center">bitzok</h3>
 
-<p align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santacruzedward/)
-  •
-  ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+<p align='center'>
+  <a href="mailto:santacruzedward@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/santacruzedward/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<h3>Network</h3>
 
 ---
 
 <h3>Technologies</h3>
 
-<table align="center">
+<table>
   <thead>
     <tr>
       <th style="text-align: center;">Frontend</th>
