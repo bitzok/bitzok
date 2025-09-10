@@ -99,5 +99,7 @@
 
 <h3>Stats</h3>
 
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=bitzok&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Bitzok's GitHub Stats" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitzok&layout=compact&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="Top Langs" height="150">
+</div>
