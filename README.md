@@ -1,7 +1,6 @@
 <div align="center">
 
 <pre>
-```
       ..       .         s                                     
 . uW8"        @88>      :8                                     
 `t888         %8P      .88         ..         ..         ..    
@@ -15,8 +14,7 @@
  `%888*%"     R888"    'Y"    '8    8888 '8    8888 '8    8888 
     "`         ""             '8    888F '8    888F '8    888F 
                                %k   88F   %k   88F   %k   88F  
-                                "+:*%     "+:*%     "+:*%   
-```           
+                                "+:*%     "+:*%     "+:*%              
                               
 Desarrollador/artista especializado en java/spring boot/microservicioS
 <sub>codeo por diversión y ya</sub>
