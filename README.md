@@ -20,7 +20,7 @@ Desarrollador especializado en java/spring boot/microservicioS
 <sub>codeo por diversión y ya</sub>
 </pre>
 <a href="https://bitzok.me" class="geo-button">
-  <img src="https://cyber.dabamos.de/88x31/for_specials.gif" width="88" height="31">
+  <img src="assets/bitzok.gif" width="88" height="31">
 </a>
 
 </div>
