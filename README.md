@@ -14,10 +14,24 @@
  `%888*%"     R888"    'Y"    '8    8888 '8    8888 '8    8888 
     "`         ""             '8    888F '8    888F '8    888F 
                                %k   88F   %k   88F   %k   88F  
-                                          "+:*%       "+:*%     "+:*%              
+                                          "+:*%      "+:*%      "+:*%              
                               
-Desarrollador/artista especializado en java/spring boot/microservicioS
+Desarrollador especializado en java/spring boot/microservicioS
 <sub>codeo por diversión y ya</sub>
 </pre>
+<style>
+.geo-button {
+  width: 88px; height: 31px; display: inline-block;
+  border-top: 2px solid white; border-left: 2px solid white;
+  border-right: 2px solid black; border-bottom: 2px solid black;
+}
+.geo-button:hover {
+  border-top: 2px solid black; border-left: 2px solid black;
+  border-right: 2px solid white; border-bottom: 2px solid white;
+}
+</style>
+<a href="https://bitzok.me" class="geo-button">
+  <img src="https://cyber.dabamos.de/88x31/for_specials.gif" width="88" height="31">
+</a>
 
 </div>
