@@ -10,7 +10,8 @@ ___.   .__  __
 </pre>
 
 <pre>
-<sub>desarrollador/artista especializado en java/spring boot/microservicios</sub>
+Desarrollador/artista especializado en java/spring boot/microservicioS
+<sub>codeo por diversión y ya</sub>
 </pre>
 
 </div>
