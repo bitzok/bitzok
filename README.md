@@ -1,6 +1,5 @@
 <div align="center">
 
-<a href="https://bitzok.me">
 <pre>
 ___.   .__  __                          
 \_ |__ |__|/  |_________________________
@@ -9,8 +8,9 @@ ___.   .__  __
  |___  /__||__| /_____ \/_____ \/_____ \
      \/               \/      \/      \/
 </pre>
-</a>
 
+<pre>
 <sub>desarrollador/artista especializado en java/spring boot/microservicios</sub>
+</pre>
 
 </div>
